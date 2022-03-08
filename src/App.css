@@ -47,3 +47,13 @@ body {
   border: none;
   cursor: pointer;
 }
+
+.form--marketing {
+  display: flex;
+  margin-bottom: 20px;
+  align-items: center;
+}
+
+.form--marketing > input {
+  margin-right: 10px;
+}
